@@ -1,6 +1,6 @@
 <template>
   <div class="hello" @click="emit_test">
-    {{ msg }}
+    aaa
     <slot name="card"></slot>
     <slot name="card"></slot>
   </div>
